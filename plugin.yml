@@ -1,0 +1,12 @@
+name: GMChecker
+description: Check players gamemodes!
+version: 0.2
+main: gmchecker\main
+api: 1.12.0
+commands:
+ gmcheck:
+  description: Check players gamemodes!
+  permission: gmchecker.check
+ opcheck:
+  description: Check players gamemodes!
+  permission: gmchecker.check
